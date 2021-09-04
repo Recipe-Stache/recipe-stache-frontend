@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { ThemeProvider } from '@material-ui/core/styles'
-import { theme } from './Util/theme'
+import theme from './Util/theme'
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />;
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 
