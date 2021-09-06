@@ -10,7 +10,7 @@ on:
   pull_request:
     branches: [ Main ]
 env:
-  ECS_TASK_DEFINITION: '/deploy/ecs_task.json'
+  ECS_TASK_DEFINITION: '.deploy/ecs_task.json'
   CONTAINER_NAME: 'recipe-stache-frontend'
 
 jobs:
