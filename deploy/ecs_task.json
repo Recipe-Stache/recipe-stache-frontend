@@ -56,7 +56,7 @@
       "EXTERNAL",
       "EC2"
     ],
-    "taskDefinitionArn": "arn:aws:ecs:us-east-2:717038299629:task-definition/recipe-stache-frontend:1",
+    "taskDefinitionArn": "arn:aws:ecs:us-east-2:717038299629:task-definition/recipe-stache-frontend:3",
     "family": "recipe-stache-frontend",
     "requiresAttributes": [
       {
