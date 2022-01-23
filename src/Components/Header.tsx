@@ -1,12 +1,12 @@
-import { FC } from 'react'
-import { Heading } from '@chakra-ui/react'
+import { FC } from "react";
+import { Heading } from "@chakra-ui/react";
 
 type props = {
-  title: string
-}
+  title: string;
+};
 
-const Header:FC<props> = ({ title }) => {
-  return <Heading>{title}</Heading>
-}
+const Header: FC<props> = ({ title }) => {
+  return <Heading>{title}</Heading>;
+};
 
-export default Header
+export default Header;

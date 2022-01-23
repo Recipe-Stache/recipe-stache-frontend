@@ -1,7 +1,7 @@
-import Create from './Pages/Create'
-import Home from './Pages/Home'
-import Navigation from './Components/Navigation'
-import { Routes, Route } from "react-router-dom"
+import Create from "./Pages/Create";
+import Home from "./Pages/Home";
+import Navigation from "./Components/Navigation";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (

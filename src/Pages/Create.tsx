@@ -1,9 +1,9 @@
-import Header from '../Components/Header';
+import Header from "../Components/Header";
 
 function Create() {
   return (
     <div>
-      <Header title={"Create Recipes Here!!"}/>
+      <Header title={"Create Recipes Here!!"} />
     </div>
   );
 }
